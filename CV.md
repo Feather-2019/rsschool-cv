@@ -4,7 +4,7 @@
 -----
 ### Contacts:
 + Telegram: @Feather_2021
-+ Discord: Alexander_M.
++ Discord: Alexander_M.#1708
 + Skype: mini_sasha
 + Tel.: +375 29 5264324
 ************
@@ -26,7 +26,19 @@ Learn fast.
 *****
 ## Education
 
++ From 2006 to 2012 - Brest State University n.a. A. S. Pushkin, faculty of Biology;
+
++ From 2012 to 2013 - Brest State University n.a. A. S. Pushkin, Master degree.
+
 ## Working experience
+
+Example of code:
+
+` function multiply(a, b){
+  var i;
+  i = a * b;
+  return i;
+`
 
 ## Foreign Languages
 
