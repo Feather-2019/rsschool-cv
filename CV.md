@@ -7,7 +7,12 @@
 + Discord: Alexander_M.#1708
 + Skype: mini_sasha
 + Tel.: +375 29 5264324
+
+![Avatar](https://avatars.githubusercontent.com/u/48867210?s=400&u=30bd18a7a149f56a252ea3f485b798ad6cfc7400&v=4);
 ************
+
+
+
 ### About Me
 Hello! My name is Alexander. My main goal is to start carrer as Junior Front-End developer.
 
