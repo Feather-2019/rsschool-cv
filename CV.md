@@ -21,10 +21,13 @@ My occupation is a programmer in State educational establishment.
 I'm interested in Web-development using HTML, CSS, JS.
 
 My hard skills:
+  + C programming on linux, basic;
+  + Web-page development using HTML5, CSS3 flexbox, grid;
+  + Git beginner skills;
   + Intermediate system administration using Windows and Linux OS;
   + PC hardware health analysing and restoration skills;
   + IP video surveillance and live streaming skills;
-  + Basic web-page development using HTML and CSS;
+  
 
 Learn fast.
 
@@ -36,6 +39,14 @@ Learn fast.
 + From 2012 to 2013 - Brest State University n.a. A. S. Pushkin, Master degree.
 
 ## Working experience
+
+  + Laboratory of Continuous flowering, Brest State University n.a. A. S. Pushkin;
+  + Microbiology laboratory, "Ivkon" LCC, from 2013 to 2014;
+  + Programmer, State educational establishment "RCIT", from 2018 to present;
+
+## Qualifications
+  + Courses for bacteriologists, Minsk Institute Industry qualification;
+  +  
 
 Example of code:
 
