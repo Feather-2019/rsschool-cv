@@ -11,8 +11,6 @@
 ![Avatar](https://avatars.githubusercontent.com/u/48867210?s=400&u=30bd18a7a149f56a252ea3f485b798ad6cfc7400&v=4);
 ************
 
-
-
 ### About Me
 Hello! My name is Alexander. My main goal is to start carrer as Junior Front-End developer.
 
@@ -25,7 +23,6 @@ My hard skills:
   + Web-page development using HTML5, CSS3 flexbox, grid;
   + Git beginner skills;
   + Intermediate system administration using Windows and Linux OS;
-  + PC hardware health analysing and restoration skills;
   + IP video surveillance and live streaming skills;
   
 
@@ -34,9 +31,10 @@ Learn fast.
 *****
 ## Education
 
-+ From 2006 to 2012 - Brest State University n.a. A. S. Pushkin, faculty of Biology;
+| *From 2006 to 2012* | Brest State University n.a. A. S. Pushkin | **Faculty of Biology;** |
+---|---|---
+| *From 2012 to 2013* | Brest State University n.a. A. S. Pushkin | **Master degree.** |
 
-+ From 2012 to 2013 - Brest State University n.a. A. S. Pushkin, Master degree.
 
 ## Working experience
 
@@ -45,19 +43,21 @@ Learn fast.
   + Programmer, State educational establishment "RCIT", from 2018 to present;
 
 ## Qualifications
-  + Courses for bacteriologists, Minsk Institute Industry qualification;
-  +  
+  + Courses for bacteriologists, *Minsk Institute Industry qualification*;
+  + Free online course "CSS", *Sololearn*; 
 
 Example of code:
 
-` function multiply(a, b){
+```javascript
+function multiply(a, b){
   var i;
   i = a * b;
   return i;
-`
+  }
+```
 
 ## Foreign Languages
 
-Certificates:
+English B1;
 
-  
+Certificates:
