@@ -1,0 +1,20 @@
+body {
+  magrin: 0;
+  padding: 0;
+  backgound-image: url(http://clipart-library.com/newimages/tree-clip-art-7.png);
+  backround-repeat: no-repeat;
+  background-color: rgba(255, 0, 0, 0.1);
+  background-size: cover;
+  }
+
+h1 {
+  padding: 5px;
+  color: green;
+  font-size: 2rem;
+  color: green;
+}
+
+.navbar {
+  background-color: #333333;
+  
+}
