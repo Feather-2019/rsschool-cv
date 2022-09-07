@@ -68,9 +68,8 @@
 
 ### Certificates: https://www.efset.org/cert/MJmyH2
 
-![Sololearn Certificate, CSS](https://api2.sololearn.com/v2/certificates/CT-YEPFNJAC/image/png)
-
-![Sololearn Certificate, C](https://api2.sololearn.com/v2/certificates/CT-B33YOCLC/image/png)
+<img alt="Sololearn CSS Certificate" src="https://api2.sololearn.com/v2/certificates/CT-YEPFNJAC/image/png" width="350" />
+<img alt="Sololearn C Certificate" src="https://api2.sololearn.com/v2/certificates/CT-B33YOCLC/image/png" width="350" />
 
 ### Contacts:
 
