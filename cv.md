@@ -1,26 +1,26 @@
-#My CV
+# My CV
 
-##Alexander Minich
-###Junior Front-End Developer
+## Alexander Minich
+### Junior Front-End Developer
 
-###About Me
+### About Me
 
-<p>Hello! My name is Alexander. My main goal is to start carrer as Junior Front-End developer.
-  I'm biologist by education. I graduated Brest State University n.a. A. S. Pushkin at 2012.
-  I'm interested in Web-development using HTML, CSS, JS.</p>
+	Hello! My name is Alexander. My main goal is to start carrer as Junior Front-End developer.
+	I'm biologist by education. I graduated Brest State University n.a. A. S. Pushkin at 2012.
+	I'm interested in Web-development using HTML, CSS, JS.
   
   =====
   
-  ###My hard skills:
+  ### My hard skills:
 
-    *C programming on linux, basic;
-    *Web-page development using HTML5, CSS3 flexbox, grid;
-    *Git beginner skills;
-    *Intermediate system administration using Windows and Linux OS;
-    *IP video surveillance and live streaming skills;
+    - C programming on linux, basic;
+    - Web-page development using HTML5, CSS3 flexbox, grid;
+    - Git beginner skills;
+    - Intermediate system administration using Windows and Linux OS;
+    - IP video surveillance and live streaming skills;
     
-    <p>Learn fast.</p>
-    =====
+    Learn fast.
+    ________________  
     
    ```
    function multiply(a, b){
@@ -28,9 +28,8 @@
 			i = a * b;
 			return i;
 		}
-	```
-  
-  ```
+
+ 
   #! /bin/bash
 
 	again=yes
@@ -44,15 +43,23 @@
 			read again
 		done
    ```
-##Foreign Languages
+### Education:
+   
+   	| **Date**          | **University**                            | **Degree**          |
+	| :---: | :----------: | :-------------------: |
+	| From 2006 to 2012 | Brest State University n.a. A. S. Pushkin | Bachelor of Biology |
+	| From 2012 to 2013 | Brest State University n.a. A. S. Pushkin | Master's degree     |
+   
+### Foreign Languages
 
-English B1;
+	+ English B1;
+	+ Polish Basic;
 
-##Certificates: https://www.efset.org/cert/MJmyH2
+### Certificates: https://www.efset.org/cert/MJmyH2
 
-##Contacts:
+### Contacts:
 
-    Telegram: @Feather_2021
-    Discord: Alexander_M.#1708
-    Skype: mini_sasha
-    Tel.: +375 29 5264324
+    * Telegram: @Feather_2021
+    * Discord: Alexander_M.#1708
+    * Skype: mini_sasha
+    * Tel.: +375 29 5264324
