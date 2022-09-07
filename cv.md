@@ -9,9 +9,9 @@
 	I'm biologist by education. I graduated Brest State University n.a. A. S. Pushkin at 2012.
 	I'm interested in Web-development using HTML, CSS, JS.
   
-  ___
+_____
   
-  ### My hard skills:
+### My hard skills:
 
 - C programming on linux, basic;
 - Web-page development using HTML5, CSS3 flexbox, grid;
@@ -20,9 +20,9 @@
 - IP video surveillance and live streaming skills;
     
     Learn fast.
-  ___
+_____
     
- ### Code example:
+### Code example:
     
    ```
    function multiply(a, b){
