@@ -50,3 +50,9 @@ English B1;
 
 ##Certificates: https://www.efset.org/cert/MJmyH2
 
+##Contacts:
+
+    Telegram: @Feather_2021
+    Discord: Alexander_M.#1708
+    Skype: mini_sasha
+    Tel.: +375 29 5264324
